@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Home"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ray Shealy"
 description              : &description "Ray Shealy's Academic Website"
@@ -22,10 +22,10 @@ repository               : "rbshealy/rbshealy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "blue.jpg"
   name             : "Ray Shealy"
-  pronouns         : # example: "she/her"  
-  bio              : "Motivated computer science student passionate about graphics"
+  pronouns         : "he/him"  
+  bio              : "Motivated computer science student passionate about computer graphics"
   location         : "Chapel Hill, NC"
   employer         : "UNC Chapel Hill"
   uri              : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ray-shealy"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -80,12 +80,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #books:
+  #  title: 'Books'
+  #manuscripts:
+  #  title: 'Journal Articles'    
+  #conferences:
+  #  title: 'Conference Papers'
+  projects:
+    title: 'Projects papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

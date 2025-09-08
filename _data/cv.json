@@ -1,152 +1,138 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Ray Shealy",
+    "email": "rbshealy227@gmail.com",
+    "phone": "704-497-9858",
+    "website": "https://rbshealy.github.io",
+    "summary": "Computer Science student at UNC Chapel Hill with software engineering and operations experience. Strong technical background with internships in fraud prevention, logistics systems, and full-stack development.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Chapel Hill",
+      "region": "NC",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "ray-shealy",
+        "url": "https://www.linkedin.com/in/ray-shealy/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "rbshealy",
+        "url": "https://github.com/rbshealy"
       }
     ]
   },
-  "work": [],
+
+  "work": [
+    {
+      "company": "USAA",
+      "position": "Software Engineer Intern (Full Time)",
+      "location": "Plano, TX",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "summary": "Summer internship in fraud data systems and automation.",
+      "highlights": [
+        "Consolidated Actimize data mappings into a central repository.",
+        "Developed Chrome Extension to inject GitLab repository and tag data into ServiceNow workflows.",
+        "Conducted code reviews and managed repositories in GitLab.",
+        "Delivered adaptive code changes from daily user feedback.",
+        "Participated in SAFe Agile sprints via JIRA.",
+        "Listed as inventor on a submitted patent."
+      ]
+    },
+    {
+      "company": "University of North Carolina at Chapel Hill",
+      "position": "Teaching Assistant (COMP 211: Systems Fundamentals)",
+      "location": "Chapel Hill, NC",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
+      "highlights": [
+        "Graded exams and coding assignments.",
+        "Proctored midterm and final exams.",
+        "Held daily office hours to support students."
+      ]
+    },
+    {
+      "company": "Akoustis, Inc.",
+      "position": "Operations and Sales Specialist (Full Time)",
+      "location": "Huntersville, NC",
+      "startDate": "2022-01",
+      "endDate": "2024-04",
+      "highlights": [
+        "Engineered solutions to streamline logistics operations, including inventory tracking and shipment management.",
+        "Implemented systems to monitor and track shipments with real-time updates.",
+        "Facilitated communication with Mandarin-speaking customers."
+      ]
+    },
+    {
+      "company": "Akoustis, Inc.",
+      "position": "Software Engineering Intern",
+      "location": "Huntersville, NC",
+      "startDate": "2021-01",
+      "endDate": "2021-08",
+      "highlights": [
+        "Managed version control and new feature implementation.",
+        "Applied OOP and Data Structures for scalable systems.",
+        "Collaborated cross-functionally to resolve software challenges.",
+        "Resolved system compatibility issues with integration techniques."
+      ]
+    }
+  ],
+
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "University of North Carolina at Chapel Hill",
+      "area": "B.S. in Computer Science",
+      "studyType": "Undergraduate",
+      "endDate": "2025-12",
+      "gpa": "4.0",
+      "courses": [
+        "Mentored Research in AR/VR",
+        "Data Structures",
+        "Systems Programming Fundamentals",
+        "Computer Organization",
+        "Algorithms and Analysis",
+        "Linear Algebra",
+        "Artificial Intelligence"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+
+  "skills": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Programming",
+      "keywords": ["C++", "Python", "C", "Java", "JavaScript", "TypeScript", "React", "HTML/CSS", "MIPS", "Pug", "CoffeeScript"]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Tools & Platforms",
+      "keywords": ["Git", "Docker", "CLion", "PyCharm", "IntelliJ", "VSCode", "GitHub Copilot", "JIRA", "Fusion 360", "CUDA Toolkit", "Actimize Fraud Prevention"]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Concepts",
+      "keywords": ["Object-Oriented Programming", "Algorithms", "Data Structures", "REST API", "Test Driven Development", "Digital Logic"]
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Other",
+      "keywords": ["GitLab API", "ServiceNow API", "Hugging Face API", "Chrome Extensions", "SAFe Agile", "Excel", "PowerPoint", "Dynamics365"]
     }
   ],
-  "presentations": [
+
+  "languages": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "language": "English",
+      "fluency": "Native"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "language": "Mandarin",
+      "fluency": "Professional (Business Communication)"
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+
+  "interests": [
+    { "name": "Augmented & Virtual Reality" },
+    { "name": "Fraud Detection Systems" },
+    { "name": "Computer Graphics" },
+    { "name": "AI and Automation" }
   ]
 }
