@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of North Carolina at Chapel Hill, expected Dec 2025 (GPA 4.0 as of Aug 2025)  
+* B.S. in Computer Science, University of North Carolina at Chapel Hill, expected to graduate in December 2025 (GPA 4.0 as of Aug 2025)  
   Relevant courses: Mentored Research in AR/VR, Data Structures, Systems Programming Fundamentals, Computer Organization, Algorithms and Analysis, Linear Algebra, Artificial Intelligence, 2D Computer Graphics
 
 Work Experience
@@ -44,7 +44,7 @@ Skills
 
 Publications
 ======
-Check the [publications](/publications/) page for my publications
+No Publications (Yet!)
 
 
 Teaching
