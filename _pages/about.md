@@ -11,7 +11,7 @@ Hi. I’m **Ray Shealy**, a Computer Science student at the University of North 
 
 Over the past few years, I’ve worked on a mix of technical projects that range from backend automation to frontend tools. Most recently, during a software engineering internship at USAA, I built a Chrome extension that connected GitLab data directly into ServiceNow workflows. Before that, I worked at Akoustis, Inc., where I supported logistics and later developed software solutions to streamline operations.  
 
-In the spring of 2025 at UNC, I had the opportunity to conduct mentored research alongside [Dr. Henry Fuchs](https://henryfuchs.web.unc.edu/) (Federico Gil Distinguished Professor), where we explored power-saving solutions for next-generation AR/VR glasses. While my results weren't formally published, the report is available on my [publications](/_publications/) page.  
+In the spring of 2025 at UNC, I had the opportunity to conduct mentored research alongside [Dr. Henry Fuchs](https://henryfuchs.web.unc.edu/) (Federico Gil Distinguished Professor), where we explored power-saving solutions for next-generation AR/VR glasses. While my results weren't formally published, the report is available on my [portfolio](/portfolio/) page.  
 
 I’m interested in the overlap between AI, Graphics, ComputerVision, and AR/VR, that of which I've explored throughout my undergraduate studies. I’m also especially grateful for the guidance of my mentor, [Akshay Paruchuri](https://akshayparuchuri.com/) (PhD student UNC Chapel Hill), whose support has shaped much of my growth during my time at UNC.
 
