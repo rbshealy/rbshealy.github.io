@@ -1,8 +1,13 @@
 ---
-title: "Pre-print: Leveraging Object Detection Model for Power Savings in AR glasses"
-excerpt: "Project report showcasing research results from spring of 2025<br><br>
-<img src='/images/pipeline_1.jpg' width='300' style='margin-bottom:16px;'><br>
-<img src='/images/pipeline_2.jpg' width='300' style='margin-bottom:16px;'>"
+title: "Leveraging Object Detection Model for Power Savings in AR glasses"
+excerpt: "<img src='/images/pipeline_1.jpg' width='700'><br>
+
+
+<img src='/images/pipeline_2.jpg' width='700'><br>
+
+
+
+This project report showcases results from my mentored research in spring of 2025. It explores how object and face detection models can be used to reduce redundant rendering in AR glasses, improving power efficiency in real-world productivity scenarios. In the figures above, we gathered real world data in two different office scenarios and input it into our pipeline which output the amount of power savings at different movement thresholds. In one scenario (work on 2 monitors) we were able to project ~95 percent of frames did not need to be re-rendered in the video. In the other scenario (Group meeting with 1 monitor) we were able to project ~93 percent of frames did not need to be re-rendered. "
 collection: portfolio
 paperurl: '/files/Project_Report.pdf'
 ---
